@@ -14,6 +14,7 @@
 		8836ED6920566DE600AF70A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8836ED6720566DE600AF70A8 /* LaunchScreen.storyboard */; };
 		8836ED7420566DE600AF70A8 /* ExampleGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8836ED7320566DE600AF70A8 /* ExampleGitTests.swift */; };
 		8836ED7F20566DE600AF70A8 /* ExampleGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8836ED7E20566DE600AF70A8 /* ExampleGitUITests.swift */; };
+		8836ED8D2056723900AF70A8 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8836ED8C2056723900AF70A8 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8836ED7A20566DE600AF70A8 /* ExampleGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExampleGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8836ED7E20566DE600AF70A8 /* ExampleGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleGitUITests.swift; sourceTree = "<group>"; };
 		8836ED8020566DE600AF70A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8836ED8C2056723900AF70A8 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8836ED6520566DE600AF70A8 /* Assets.xcassets */,
 				8836ED6720566DE600AF70A8 /* LaunchScreen.storyboard */,
 				8836ED6A20566DE600AF70A8 /* Info.plist */,
+				8836ED8C2056723900AF70A8 /* MapForItinerary.swift */,
 			);
 			path = ExampleGit;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				8836ED6120566DE600AF70A8 /* ViewController.swift in Sources */,
 				8836ED5F20566DE600AF70A8 /* AppDelegate.swift in Sources */,
+				8836ED8D2056723900AF70A8 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
